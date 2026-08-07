@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>jobvalley Jobs Catalog</title>
+    <link>https://www.jobmensa.de</link>
+    <description>Aktuelle Studentenjobs, Werkstudentenstellen und Nebenjobs von jobvalley</description>
+
+    <item>
+      <id>job-001</id>
+      <title>Kommissionierer (m/w/d) Lager</title>
+      <link>https://www.jobmensa.de/jobs/job-001</link>
+      <description>Kommissionierung und Verpackung von Waren im Lager. Flexible Schichten möglich.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>15.29 EUR</price>
+      <brand>DHL Supply Chain</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Köln</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>10-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-04</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-002</id>
+      <title>Werkstudent (m/w/d) Online Marketing</title>
+      <link>https://www.jobmensa.de/jobs/job-002</link>
+      <description>Unterstützung bei Social Media Kampagnen, Content-Erstellung und Performance Marketing.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Marketing</image_link>
+      <price>16.50 EUR</price>
+      <brand>jobvalley</brand>
+      <product_type>Marketing &amp; Marktforschung</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Hamburg</custom_label_1>
+      <custom_label_2>Hamburg</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-003</id>
+      <title>Servicekraft (m/w/d) Veranstaltungen</title>
+      <link>https://www.jobmensa.de/jobs/job-003</link>
+      <description>Service bei Firmenevents, Messen und Galas. Abend- und Wochenendarbeit.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>14.96 EUR</price>
+      <brand>Kuffler Gastronomie</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>München</custom_label_1>
+      <custom_label_2>Bayern</custom_label_2>
+      <custom_label_3>8-30 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-10</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-004</id>
+      <title>Aushilfe (m/w/d) Warenverräumung</title>
+      <link>https://www.jobmensa.de/jobs/job-004</link>
+      <description>Warenverräumung und Regalpflege in Filialen eines großen Lebensmittelhändlers.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Einzelhandel</image_link>
+      <price>14.96 EUR</price>
+      <brand>REWE Group</brand>
+      <product_type>Einzelhandel</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Berlin</custom_label_1>
+      <custom_label_2>Berlin</custom_label_2>
+      <custom_label_3>6-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-03</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-005</id>
+      <title>Werkstudent (m/w/d) Data Analytics</title>
+      <link>https://www.jobmensa.de/jobs/job-005</link>
+      <description>Datenanalyse mit Python und SQL, Erstellung von Dashboards und Reports.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=IT</image_link>
+      <price>18.00 EUR</price>
+      <brand>Commerzbank AG</brand>
+      <product_type>IT &amp; Software</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Frankfurt am Main</custom_label_1>
+      <custom_label_2>Hessen</custom_label_2>
+      <custom_label_3>16-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-15</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-006</id>
+      <title>Callcenter-Agent (m/w/d) Inbound</title>
+      <link>https://www.jobmensa.de/jobs/job-006</link>
+      <description>Telefonische Kundenberatung und Bestellannahme im Inbound-Bereich.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Kundenservice</image_link>
+      <price>15.50 EUR</price>
+      <brand>Vodafone GmbH</brand>
+      <product_type>Kundenbetreuung</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Düsseldorf</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>10-30 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-05</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-007</id>
+      <title>Produktionshelfer (m/w/d) Automobilindustrie</title>
+      <link>https://www.jobmensa.de/jobs/job-007</link>
+      <description>Montage und Qualitätskontrolle in der Automobilproduktion. Schichtarbeit.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Produktion</image_link>
+      <price>16.20 EUR</price>
+      <brand>Porsche AG</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Stuttgart</custom_label_1>
+      <custom_label_2>Baden-Württemberg</custom_label_2>
+      <custom_label_3>35-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-07</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-008</id>
+      <title>Büroaushilfe (m/w/d) Datenpflege</title>
+      <link>https://www.jobmensa.de/jobs/job-008</link>
+      <description>Dateneingabe und -pflege in ERP-Systemen, allgemeine Bürotätigkeiten.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Buero</image_link>
+      <price>14.96 EUR</price>
+      <brand>Continental AG</brand>
+      <product_type>Büro</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Hannover</custom_label_1>
+      <custom_label_2>Niedersachsen</custom_label_2>
+      <custom_label_3>10-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-009</id>
+      <title>Nachhilfelehrer (m/w/d) Mathe &amp; Physik</title>
+      <link>https://www.jobmensa.de/jobs/job-009</link>
+      <description>Nachhilfeunterricht für Schüler:innen der Klassen 7-13 in Mathe und Physik.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Soziales</image_link>
+      <price>17.00 EUR</price>
+      <brand>Studienkreis GmbH</brand>
+      <product_type>Soziales</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Leipzig</custom_label_1>
+      <custom_label_2>Sachsen</custom_label_2>
+      <custom_label_3>4-15 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-010</id>
+      <title>Auslieferungsfahrer (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-010</link>
+      <description>Auslieferung von Paketen im Stadtgebiet. Eigener Führerschein Klasse B erforderlich.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>14.96 EUR</price>
+      <brand>Hermes Germany</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Bremen</custom_label_1>
+      <custom_label_2>Bremen</custom_label_2>
+      <custom_label_3>15-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-06</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-011</id>
+      <title>Werkstudent (m/w/d) UX/UI Design</title>
+      <link>https://www.jobmensa.de/jobs/job-011</link>
+      <description>Mitarbeit an User Research, Wireframing und Prototyping für digitale Produkte.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=IT</image_link>
+      <price>17.50 EUR</price>
+      <brand>Zalando SE</brand>
+      <product_type>IT &amp; Software</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Berlin</custom_label_1>
+      <custom_label_2>Berlin</custom_label_2>
+      <custom_label_3>16-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-12</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-012</id>
+      <title>Inventurhelfer (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-012</link>
+      <description>Durchführung von Inventuren in Einzelhandelsfilialen. Flexible Einsatzzeiten.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Einzelhandel</image_link>
+      <price>15.00 EUR</price>
+      <brand>RGIS Inventory Specialists</brand>
+      <product_type>Einzelhandel</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Dortmund</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>8-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-09</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-013</id>
+      <title>Barista (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-013</link>
+      <description>Zubereitung von Kaffeespezialitäten und Kundenberatung im Café.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>15.50 EUR</price>
+      <brand>Starbucks Coffee</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Köln</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>10-25 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-02</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-014</id>
+      <title>Werkstudent (m/w/d) Buchhaltung</title>
+      <link>https://www.jobmensa.de/jobs/job-014</link>
+      <description>Unterstützung in der Finanzbuchhaltung, Rechnungsprüfung und Kontenabstimmung.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Buero</image_link>
+      <price>16.00 EUR</price>
+      <brand>Siemens AG</brand>
+      <product_type>Büro</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>München</custom_label_1>
+      <custom_label_2>Bayern</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-015</id>
+      <title>Promoter (m/w/d) Außendienst</title>
+      <link>https://www.jobmensa.de/jobs/job-015</link>
+      <description>Promotion-Aktionen im Außendienst, Kundengespräche und Produktpräsentationen.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Marketing</image_link>
+      <price>16.00 EUR</price>
+      <brand>Procter &amp; Gamble</brand>
+      <product_type>Marketing &amp; Marktforschung</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Frankfurt am Main</custom_label_1>
+      <custom_label_2>Hessen</custom_label_2>
+      <custom_label_3>10-30 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-08</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-016</id>
+      <title>Sicherungsposten (m/w/d) Bahnbaustelle</title>
+      <link>https://www.jobmensa.de/jobs/job-016</link>
+      <description>Absicherung von Gleisbaustellen nach Einweisung. Schulung wird gestellt.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>15.29 EUR</price>
+      <brand>DB Netz AG</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Bielefeld</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>30-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-11</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-017</id>
+      <title>Werkstudent (m/w/d) HR / People &amp; Culture</title>
+      <link>https://www.jobmensa.de/jobs/job-017</link>
+      <description>Unterstützung im Recruiting, Onboarding und Employer Branding.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Buero</image_link>
+      <price>16.00 EUR</price>
+      <brand>Otto Group</brand>
+      <product_type>Büro</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Hamburg</custom_label_1>
+      <custom_label_2>Hamburg</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-04</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-018</id>
+      <title>Verkäufer (m/w/d) Textil</title>
+      <link>https://www.jobmensa.de/jobs/job-018</link>
+      <description>Kundenberatung und Verkauf im Modehaus. Samstagsarbeit möglich.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Einzelhandel</image_link>
+      <price>14.96 EUR</price>
+      <brand>H&amp;M</brand>
+      <product_type>Einzelhandel</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Dresden</custom_label_1>
+      <custom_label_2>Sachsen</custom_label_2>
+      <custom_label_3>8-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-03</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-019</id>
+      <title>Werkstudent (m/w/d) Softwareentwicklung Java</title>
+      <link>https://www.jobmensa.de/jobs/job-019</link>
+      <description>Entwicklung von Backend-Services mit Java/Spring Boot in agilem Team.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=IT</image_link>
+      <price>19.00 EUR</price>
+      <brand>Bosch</brand>
+      <product_type>IT &amp; Software</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Stuttgart</custom_label_1>
+      <custom_label_2>Baden-Württemberg</custom_label_2>
+      <custom_label_3>16-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-15</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-020</id>
+      <title>Küchenhilfe (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-020</link>
+      <description>Unterstützung in der Küche: Vorbereitung, Spülen und Sauberkeit.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>14.96 EUR</price>
+      <brand>Atlantic Hotel Kiel</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Kiel</custom_label_1>
+      <custom_label_2>Schleswig-Holstein</custom_label_2>
+      <custom_label_3>10-30 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-02</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-021</id>
+      <title>Werkstudent (m/w/d) Content Creation</title>
+      <link>https://www.jobmensa.de/jobs/job-021</link>
+      <description>Erstellung von Blog-Artikeln, Social-Media-Posts und Newslettern.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Marketing</image_link>
+      <price>16.00 EUR</price>
+      <brand>jobvalley</brand>
+      <product_type>Marketing &amp; Marktforschung</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Köln</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>12-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-022</id>
+      <title>Lagerhelfer (m/w/d) Nachtschicht</title>
+      <link>https://www.jobmensa.de/jobs/job-022</link>
+      <description>Warenein- und -ausgang, Kommissionierung in der Nachtschicht (22-6 Uhr).</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>16.50 EUR</price>
+      <brand>Amazon Logistics</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Groß-Gerau</custom_label_1>
+      <custom_label_2>Hessen</custom_label_2>
+      <custom_label_3>20-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-05</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-023</id>
+      <title>Telefoninterviewer (m/w/d) Marktforschung</title>
+      <link>https://www.jobmensa.de/jobs/job-023</link>
+      <description>Durchführung von telefonischen Befragungen für Marktforschungsstudien.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Marketing</image_link>
+      <price>15.00 EUR</price>
+      <brand>Infas Institut</brand>
+      <product_type>Marketing &amp; Marktforschung</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Bonn</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>10-25 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-06</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-024</id>
+      <title>Werkstudent (m/w/d) Qualitätsmanagement</title>
+      <link>https://www.jobmensa.de/jobs/job-024</link>
+      <description>Unterstützung bei Qualitätsprüfungen und Dokumentation in der Fertigung.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Produktion</image_link>
+      <price>17.00 EUR</price>
+      <brand>Volkswagen AG</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Wolfsburg</custom_label_1>
+      <custom_label_2>Niedersachsen</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-13</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-025</id>
+      <title>Rezeptionist (m/w/d) Hotel</title>
+      <link>https://www.jobmensa.de/jobs/job-025</link>
+      <description>Check-In/Check-Out, Gästebetreuung und Reservierungsmanagement.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>15.50 EUR</price>
+      <brand>Marriott Hotels</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>München</custom_label_1>
+      <custom_label_2>Bayern</custom_label_2>
+      <custom_label_3>15-35 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-04</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-026</id>
+      <title>Werkstudent (m/w/d) Controlling</title>
+      <link>https://www.jobmensa.de/jobs/job-026</link>
+      <description>Erstellung von Reports, Abweichungsanalysen und Budgetplanung.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Buero</image_link>
+      <price>17.00 EUR</price>
+      <brand>Henkel AG</brand>
+      <product_type>Büro</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Düsseldorf</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-027</id>
+      <title>Umzugshelfer (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-027</link>
+      <description>Unterstützung bei Umzügen: Tragen, Verpacken und Transportieren.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>16.00 EUR</price>
+      <brand>Studitemps GmbH</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Berlin</custom_label_1>
+      <custom_label_2>Berlin</custom_label_2>
+      <custom_label_3>8-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-09</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-028</id>
+      <title>Kundenberater (m/w/d) Außendienst &amp; Shop</title>
+      <link>https://www.jobmensa.de/jobs/job-028</link>
+      <description>Beratung und Verkauf von Mobilfunkverträgen im Shop und Außendienst.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Kundenservice</image_link>
+      <price>18.00 EUR</price>
+      <brand>Telekom Deutschland</brand>
+      <product_type>Kundenbetreuung</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Hannover</custom_label_1>
+      <custom_label_2>Niedersachsen</custom_label_2>
+      <custom_label_3>15-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-07</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-029</id>
+      <title>Werkstudent (m/w/d) Grafikdesign</title>
+      <link>https://www.jobmensa.de/jobs/job-029</link>
+      <description>Gestaltung von Flyern, Plakaten und Social-Media-Grafiken mit Adobe Creative Suite.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Marketing</image_link>
+      <price>16.50 EUR</price>
+      <brand>Edeka Zentrale</brand>
+      <product_type>Marketing &amp; Marktforschung</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Hamburg</custom_label_1>
+      <custom_label_2>Hamburg</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-10</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-030</id>
+      <title>Packer (m/w/d) E-Commerce</title>
+      <link>https://www.jobmensa.de/jobs/job-030</link>
+      <description>Verpacken und Versandvorbereitung von Online-Bestellungen.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>14.96 EUR</price>
+      <brand>Adidas AG</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Nürnberg</custom_label_1>
+      <custom_label_2>Bayern</custom_label_2>
+      <custom_label_3>10-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-03</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-031</id>
+      <title>Tutor (m/w/d) Programmierung</title>
+      <link>https://www.jobmensa.de/jobs/job-031</link>
+      <description>Tutoring für Informatik-Studierende in Python und Algorithmen an der RWTH.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=IT</image_link>
+      <price>15.50 EUR</price>
+      <brand>RWTH Aachen</brand>
+      <product_type>IT &amp; Software</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Aachen</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>6-12 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-032</id>
+      <title>Messehostess (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-032</link>
+      <description>Empfang und Betreuung von Messebesuchern, Standbetreuung.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>16.00 EUR</price>
+      <brand>Messe Frankfurt</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Frankfurt am Main</custom_label_1>
+      <custom_label_2>Hessen</custom_label_2>
+      <custom_label_3>8-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-18</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-033</id>
+      <title>Werkstudent (m/w/d) Supply Chain Management</title>
+      <link>https://www.jobmensa.de/jobs/job-033</link>
+      <description>Mitarbeit bei Bestandsplanung, Lieferantenmanagement und Prozessoptimierung.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>16.50 EUR</price>
+      <brand>Ford-Werke GmbH</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Köln</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-12</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-034</id>
+      <title>Aushilfe (m/w/d) Kassierer</title>
+      <link>https://www.jobmensa.de/jobs/job-034</link>
+      <description>Kassiertätigkeiten und Kundenberatung im Supermarkt.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Einzelhandel</image_link>
+      <price>14.96 EUR</price>
+      <brand>Edeka</brand>
+      <product_type>Einzelhandel</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Freiburg</custom_label_1>
+      <custom_label_2>Baden-Württemberg</custom_label_2>
+      <custom_label_3>8-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-02</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-035</id>
+      <title>Werkstudent (m/w/d) Projektmanagement</title>
+      <link>https://www.jobmensa.de/jobs/job-035</link>
+      <description>Unterstützung bei Projektplanung, Stakeholder-Kommunikation und Dokumentation.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Buero</image_link>
+      <price>17.00 EUR</price>
+      <brand>SAP SE</brand>
+      <product_type>Büro</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Berlin</custom_label_1>
+      <custom_label_2>Berlin</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-15</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-036</id>
+      <title>Sortierer (m/w/d) Paketzentrum</title>
+      <link>https://www.jobmensa.de/jobs/job-036</link>
+      <description>Sortierung und Weiterleitung von Paketsendungen im Verteilzentrum.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>15.72 EUR</price>
+      <brand>DPD Deutschland</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Graben</custom_label_1>
+      <custom_label_2>Bayern</custom_label_2>
+      <custom_label_3>15-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-06</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-037</id>
+      <title>Betreuer (m/w/d) Feriencamp</title>
+      <link>https://www.jobmensa.de/jobs/job-037</link>
+      <description>Betreuung von Kindern und Jugendlichen im Sommerferiencamp.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Soziales</image_link>
+      <price>15.00 EUR</price>
+      <brand>AWO Heidelberg</brand>
+      <product_type>Soziales</product_type>
+      <custom_label_0>Ferienjob</custom_label_0>
+      <custom_label_1>Heidelberg</custom_label_1>
+      <custom_label_2>Baden-Württemberg</custom_label_2>
+      <custom_label_3>30-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-04</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-038</id>
+      <title>Werkstudent (m/w/d) Frontend-Entwicklung React</title>
+      <link>https://www.jobmensa.de/jobs/job-038</link>
+      <description>Entwicklung von UI-Komponenten mit React/TypeScript im agilen Produktteam.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=IT</image_link>
+      <price>18.50 EUR</price>
+      <brand>jobvalley</brand>
+      <product_type>IT &amp; Software</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Köln</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>16-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-039</id>
+      <title>Aushilfe (m/w/d) Gastronomie Stadion</title>
+      <link>https://www.jobmensa.de/jobs/job-039</link>
+      <description>Ausgabe von Speisen und Getränken bei Heimspielen im Stadion.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>15.50 EUR</price>
+      <brand>Aramark GmbH</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Dortmund</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>5-15 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-09</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-040</id>
+      <title>Werkstudent (m/w/d) CRM &amp; E-Mail-Marketing</title>
+      <link>https://www.jobmensa.de/jobs/job-040</link>
+      <description>Aufbau und Optimierung von E-Mail-Kampagnen und CRM-Workflows.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Marketing</image_link>
+      <price>16.50 EUR</price>
+      <brand>CHECK24</brand>
+      <product_type>Marketing &amp; Marktforschung</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>München</custom_label_1>
+      <custom_label_2>Bayern</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-11</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-041</id>
+      <title>Fahrradkurier (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-041</link>
+      <description>Auslieferung von Mahlzeiten per Fahrrad im Stadtgebiet. Eigenes Fahrrad von Vorteil.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Logistik</image_link>
+      <price>15.00 EUR</price>
+      <brand>Lieferando</brand>
+      <product_type>Logistik &amp; Produktion</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Leipzig</custom_label_1>
+      <custom_label_2>Sachsen</custom_label_2>
+      <custom_label_3>10-30 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-03</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-042</id>
+      <title>Werkstudent (m/w/d) Einkauf</title>
+      <link>https://www.jobmensa.de/jobs/job-042</link>
+      <description>Unterstützung bei Bestellprozessen, Lieferantenbewertungen und Vertragsmanagement.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Buero</image_link>
+      <price>16.00 EUR</price>
+      <brand>Bayer AG</brand>
+      <product_type>Büro</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Leverkusen</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-14</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-043</id>
+      <title>Empfangskraft (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-043</link>
+      <description>Empfang von Gästen, Telefonzentrale und Postbearbeitung.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Buero</image_link>
+      <price>15.00 EUR</price>
+      <brand>thyssenkrupp AG</brand>
+      <product_type>Büro</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Essen</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>10-25 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-05</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-044</id>
+      <title>Werkstudent (m/w/d) Business Intelligence</title>
+      <link>https://www.jobmensa.de/jobs/job-044</link>
+      <description>Erstellung von BI-Reports mit Power BI/Tableau und Datenmodellierung.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=IT</image_link>
+      <price>18.00 EUR</price>
+      <brand>Deutsche Bank AG</brand>
+      <product_type>IT &amp; Software</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Frankfurt am Main</custom_label_1>
+      <custom_label_2>Hessen</custom_label_2>
+      <custom_label_3>16-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-08</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-045</id>
+      <title>Caterer (m/w/d) Firmenveranstaltungen</title>
+      <link>https://www.jobmensa.de/jobs/job-045</link>
+      <description>Vorbereitung und Ausgabe von Speisen bei Firmenveranstaltungen und Konferenzen.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>16.00 EUR</price>
+      <brand>DO &amp; CO AG</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Düsseldorf</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>8-35 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-10</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-046</id>
+      <title>Pflege-Assistent (m/w/d)</title>
+      <link>https://www.jobmensa.de/jobs/job-046</link>
+      <description>Unterstützung des Pflegepersonals bei der Grundpflege und Betreuung von Patient:innen.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Soziales</image_link>
+      <price>16.50 EUR</price>
+      <brand>Universitätsklinikum Bonn</brand>
+      <product_type>Soziales</product_type>
+      <custom_label_0>Studentenjob</custom_label_0>
+      <custom_label_1>Bonn</custom_label_1>
+      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
+      <custom_label_3>15-30 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-07</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-047</id>
+      <title>Werkstudent (m/w/d) SEO &amp; Content</title>
+      <link>https://www.jobmensa.de/jobs/job-047</link>
+      <description>Keyword-Recherche, Onpage-Optimierung und Erstellung von SEO-optimiertem Content.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Marketing</image_link>
+      <price>16.00 EUR</price>
+      <brand>Delivery Hero</brand>
+      <product_type>Marketing &amp; Marktforschung</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Berlin</custom_label_1>
+      <custom_label_2>Berlin</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-01</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-048</id>
+      <title>Aushilfe (m/w/d) Getränkemarkt</title>
+      <link>https://www.jobmensa.de/jobs/job-048</link>
+      <description>Warenverräumung, Kassiertätigkeit und Kundenberatung im Getränkemarkt.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Einzelhandel</image_link>
+      <price>14.96 EUR</price>
+      <brand>Trinkgut</brand>
+      <product_type>Einzelhandel</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Mannheim</custom_label_1>
+      <custom_label_2>Baden-Württemberg</custom_label_2>
+      <custom_label_3>8-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-04</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-049</id>
+      <title>Werkstudent (m/w/d) IT-Support</title>
+      <link>https://www.jobmensa.de/jobs/job-049</link>
+      <description>1st-Level-Support, Einrichtung von Arbeitsplätzen und Troubleshooting.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=IT</image_link>
+      <price>16.00 EUR</price>
+      <brand>1&amp;1 Ionos</brand>
+      <product_type>IT &amp; Software</product_type>
+      <custom_label_0>Werkstudent</custom_label_0>
+      <custom_label_1>Karlsruhe</custom_label_1>
+      <custom_label_2>Baden-Württemberg</custom_label_2>
+      <custom_label_3>15-20 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-13</custom_label_4>
+    </item>
+
+    <item>
+      <id>job-050</id>
+      <title>Veranstaltungshelfer (m/w/d) Auf-/Abbau</title>
+      <link>https://www.jobmensa.de/jobs/job-050</link>
+      <description>Auf- und Abbau von Bühnen, Ständen und Technik bei Veranstaltungen.</description>
+      <image_link>https://via.placeholder.com/400x300.png?text=Gastronomie</image_link>
+      <price>15.50 EUR</price>
+      <brand>Barclays Arena Hamburg</brand>
+      <product_type>Gastronomie &amp; Events</product_type>
+      <custom_label_0>Nebenjob</custom_label_0>
+      <custom_label_1>Hamburg</custom_label_1>
+      <custom_label_2>Hamburg</custom_label_2>
+      <custom_label_3>8-40 Std/Woche</custom_label_3>
+      <custom_label_4>2026-08-16</custom_label_4>
+    </item>
+
+  </channel>
+</rss>
