@@ -14,11 +14,13 @@
       <price>15.29 EUR</price>
       <brand>DHL Supply Chain</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Köln</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>10-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-04</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Köln</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>10-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-04</start_date>
+      <latitude>50.9375</latitude>
+      <longitude>6.9603</longitude>
     </item>
 
     <item>
@@ -30,11 +32,13 @@
       <price>16.50 EUR</price>
       <brand>jobvalley</brand>
       <product_type>Marketing &amp; Marktforschung</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Hamburg</custom_label_1>
-      <custom_label_2>Hamburg</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Hamburg</city>
+      <state>Hamburg</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>53.5511</latitude>
+      <longitude>9.9937</longitude>
     </item>
 
     <item>
@@ -46,11 +50,13 @@
       <price>14.96 EUR</price>
       <brand>Kuffler Gastronomie</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>München</custom_label_1>
-      <custom_label_2>Bayern</custom_label_2>
-      <custom_label_3>8-30 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-10</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>München</city>
+      <state>Bayern</state>
+      <hours_per_week>8-30 Std/Woche</hours_per_week>
+      <start_date>2026-08-10</start_date>
+      <latitude>48.1351</latitude>
+      <longitude>11.5820</longitude>
     </item>
 
     <item>
@@ -62,11 +68,13 @@
       <price>14.96 EUR</price>
       <brand>REWE Group</brand>
       <product_type>Einzelhandel</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Berlin</custom_label_1>
-      <custom_label_2>Berlin</custom_label_2>
-      <custom_label_3>6-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-03</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Berlin</city>
+      <state>Berlin</state>
+      <hours_per_week>6-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-03</start_date>
+      <latitude>52.5200</latitude>
+      <longitude>13.4050</longitude>
     </item>
 
     <item>
@@ -78,11 +86,13 @@
       <price>18.00 EUR</price>
       <brand>Commerzbank AG</brand>
       <product_type>IT &amp; Software</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Frankfurt am Main</custom_label_1>
-      <custom_label_2>Hessen</custom_label_2>
-      <custom_label_3>16-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-15</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Frankfurt am Main</city>
+      <state>Hessen</state>
+      <hours_per_week>16-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-15</start_date>
+      <latitude>50.1109</latitude>
+      <longitude>8.6821</longitude>
     </item>
 
     <item>
@@ -94,11 +104,13 @@
       <price>15.50 EUR</price>
       <brand>Vodafone GmbH</brand>
       <product_type>Kundenbetreuung</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Düsseldorf</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>10-30 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-05</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Düsseldorf</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>10-30 Std/Woche</hours_per_week>
+      <start_date>2026-08-05</start_date>
+      <latitude>51.2277</latitude>
+      <longitude>6.7735</longitude>
     </item>
 
     <item>
@@ -110,11 +122,13 @@
       <price>16.20 EUR</price>
       <brand>Porsche AG</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Stuttgart</custom_label_1>
-      <custom_label_2>Baden-Württemberg</custom_label_2>
-      <custom_label_3>35-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-07</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Stuttgart</city>
+      <state>Baden-Württemberg</state>
+      <hours_per_week>35-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-07</start_date>
+      <latitude>48.7758</latitude>
+      <longitude>9.1829</longitude>
     </item>
 
     <item>
@@ -126,11 +140,13 @@
       <price>14.96 EUR</price>
       <brand>Continental AG</brand>
       <product_type>Büro</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Hannover</custom_label_1>
-      <custom_label_2>Niedersachsen</custom_label_2>
-      <custom_label_3>10-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Hannover</city>
+      <state>Niedersachsen</state>
+      <hours_per_week>10-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>52.3759</latitude>
+      <longitude>9.7320</longitude>
     </item>
 
     <item>
@@ -142,11 +158,13 @@
       <price>17.00 EUR</price>
       <brand>Studienkreis GmbH</brand>
       <product_type>Soziales</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Leipzig</custom_label_1>
-      <custom_label_2>Sachsen</custom_label_2>
-      <custom_label_3>4-15 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Leipzig</city>
+      <state>Sachsen</state>
+      <hours_per_week>4-15 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>51.3397</latitude>
+      <longitude>12.3731</longitude>
     </item>
 
     <item>
@@ -158,11 +176,13 @@
       <price>14.96 EUR</price>
       <brand>Hermes Germany</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Bremen</custom_label_1>
-      <custom_label_2>Bremen</custom_label_2>
-      <custom_label_3>15-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-06</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Bremen</city>
+      <state>Bremen</state>
+      <hours_per_week>15-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-06</start_date>
+      <latitude>53.0793</latitude>
+      <longitude>8.8017</longitude>
     </item>
 
     <item>
@@ -174,11 +194,13 @@
       <price>17.50 EUR</price>
       <brand>Zalando SE</brand>
       <product_type>IT &amp; Software</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Berlin</custom_label_1>
-      <custom_label_2>Berlin</custom_label_2>
-      <custom_label_3>16-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-12</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Berlin</city>
+      <state>Berlin</state>
+      <hours_per_week>16-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-12</start_date>
+      <latitude>52.5200</latitude>
+      <longitude>13.4050</longitude>
     </item>
 
     <item>
@@ -190,11 +212,13 @@
       <price>15.00 EUR</price>
       <brand>RGIS Inventory Specialists</brand>
       <product_type>Einzelhandel</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Dortmund</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>8-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-09</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Dortmund</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>8-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-09</start_date>
+      <latitude>51.5136</latitude>
+      <longitude>7.4653</longitude>
     </item>
 
     <item>
@@ -206,11 +230,13 @@
       <price>15.50 EUR</price>
       <brand>Starbucks Coffee</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Köln</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>10-25 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-02</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Köln</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>10-25 Std/Woche</hours_per_week>
+      <start_date>2026-08-02</start_date>
+      <latitude>50.9375</latitude>
+      <longitude>6.9603</longitude>
     </item>
 
     <item>
@@ -222,11 +248,13 @@
       <price>16.00 EUR</price>
       <brand>Siemens AG</brand>
       <product_type>Büro</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>München</custom_label_1>
-      <custom_label_2>Bayern</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>München</city>
+      <state>Bayern</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>48.1351</latitude>
+      <longitude>11.5820</longitude>
     </item>
 
     <item>
@@ -238,11 +266,13 @@
       <price>16.00 EUR</price>
       <brand>Procter &amp; Gamble</brand>
       <product_type>Marketing &amp; Marktforschung</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Frankfurt am Main</custom_label_1>
-      <custom_label_2>Hessen</custom_label_2>
-      <custom_label_3>10-30 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-08</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Frankfurt am Main</city>
+      <state>Hessen</state>
+      <hours_per_week>10-30 Std/Woche</hours_per_week>
+      <start_date>2026-08-08</start_date>
+      <latitude>50.1109</latitude>
+      <longitude>8.6821</longitude>
     </item>
 
     <item>
@@ -254,11 +284,13 @@
       <price>15.29 EUR</price>
       <brand>DB Netz AG</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Bielefeld</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>30-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-11</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Bielefeld</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>30-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-11</start_date>
+      <latitude>52.0302</latitude>
+      <longitude>8.5325</longitude>
     </item>
 
     <item>
@@ -270,11 +302,13 @@
       <price>16.00 EUR</price>
       <brand>Otto Group</brand>
       <product_type>Büro</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Hamburg</custom_label_1>
-      <custom_label_2>Hamburg</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-04</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Hamburg</city>
+      <state>Hamburg</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-04</start_date>
+      <latitude>53.5511</latitude>
+      <longitude>9.9937</longitude>
     </item>
 
     <item>
@@ -286,11 +320,13 @@
       <price>14.96 EUR</price>
       <brand>H&amp;M</brand>
       <product_type>Einzelhandel</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Dresden</custom_label_1>
-      <custom_label_2>Sachsen</custom_label_2>
-      <custom_label_3>8-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-03</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Dresden</city>
+      <state>Sachsen</state>
+      <hours_per_week>8-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-03</start_date>
+      <latitude>51.0504</latitude>
+      <longitude>13.7373</longitude>
     </item>
 
     <item>
@@ -302,11 +338,13 @@
       <price>19.00 EUR</price>
       <brand>Bosch</brand>
       <product_type>IT &amp; Software</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Stuttgart</custom_label_1>
-      <custom_label_2>Baden-Württemberg</custom_label_2>
-      <custom_label_3>16-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-15</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Stuttgart</city>
+      <state>Baden-Württemberg</state>
+      <hours_per_week>16-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-15</start_date>
+      <latitude>48.7758</latitude>
+      <longitude>9.1829</longitude>
     </item>
 
     <item>
@@ -318,11 +356,13 @@
       <price>14.96 EUR</price>
       <brand>Atlantic Hotel Kiel</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Kiel</custom_label_1>
-      <custom_label_2>Schleswig-Holstein</custom_label_2>
-      <custom_label_3>10-30 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-02</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Kiel</city>
+      <state>Schleswig-Holstein</state>
+      <hours_per_week>10-30 Std/Woche</hours_per_week>
+      <start_date>2026-08-02</start_date>
+      <latitude>54.3233</latitude>
+      <longitude>10.1228</longitude>
     </item>
 
     <item>
@@ -334,11 +374,13 @@
       <price>16.00 EUR</price>
       <brand>jobvalley</brand>
       <product_type>Marketing &amp; Marktforschung</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Köln</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>12-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Köln</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>12-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>50.9375</latitude>
+      <longitude>6.9603</longitude>
     </item>
 
     <item>
@@ -350,11 +392,13 @@
       <price>16.50 EUR</price>
       <brand>Amazon Logistics</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Groß-Gerau</custom_label_1>
-      <custom_label_2>Hessen</custom_label_2>
-      <custom_label_3>20-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-05</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Groß-Gerau</city>
+      <state>Hessen</state>
+      <hours_per_week>20-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-05</start_date>
+      <latitude>49.9208</latitude>
+      <longitude>8.4833</longitude>
     </item>
 
     <item>
@@ -366,11 +410,13 @@
       <price>15.00 EUR</price>
       <brand>Infas Institut</brand>
       <product_type>Marketing &amp; Marktforschung</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Bonn</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>10-25 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-06</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Bonn</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>10-25 Std/Woche</hours_per_week>
+      <start_date>2026-08-06</start_date>
+      <latitude>50.7374</latitude>
+      <longitude>7.0982</longitude>
     </item>
 
     <item>
@@ -382,11 +428,13 @@
       <price>17.00 EUR</price>
       <brand>Volkswagen AG</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Wolfsburg</custom_label_1>
-      <custom_label_2>Niedersachsen</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-13</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Wolfsburg</city>
+      <state>Niedersachsen</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-13</start_date>
+      <latitude>52.4227</latitude>
+      <longitude>10.7865</longitude>
     </item>
 
     <item>
@@ -398,11 +446,13 @@
       <price>15.50 EUR</price>
       <brand>Marriott Hotels</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>München</custom_label_1>
-      <custom_label_2>Bayern</custom_label_2>
-      <custom_label_3>15-35 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-04</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>München</city>
+      <state>Bayern</state>
+      <hours_per_week>15-35 Std/Woche</hours_per_week>
+      <start_date>2026-08-04</start_date>
+      <latitude>48.1351</latitude>
+      <longitude>11.5820</longitude>
     </item>
 
     <item>
@@ -414,11 +464,13 @@
       <price>17.00 EUR</price>
       <brand>Henkel AG</brand>
       <product_type>Büro</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Düsseldorf</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Düsseldorf</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>51.2277</latitude>
+      <longitude>6.7735</longitude>
     </item>
 
     <item>
@@ -430,11 +482,13 @@
       <price>16.00 EUR</price>
       <brand>Studitemps GmbH</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Berlin</custom_label_1>
-      <custom_label_2>Berlin</custom_label_2>
-      <custom_label_3>8-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-09</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Berlin</city>
+      <state>Berlin</state>
+      <hours_per_week>8-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-09</start_date>
+      <latitude>52.5200</latitude>
+      <longitude>13.4050</longitude>
     </item>
 
     <item>
@@ -446,11 +500,13 @@
       <price>18.00 EUR</price>
       <brand>Telekom Deutschland</brand>
       <product_type>Kundenbetreuung</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Hannover</custom_label_1>
-      <custom_label_2>Niedersachsen</custom_label_2>
-      <custom_label_3>15-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-07</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Hannover</city>
+      <state>Niedersachsen</state>
+      <hours_per_week>15-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-07</start_date>
+      <latitude>52.3759</latitude>
+      <longitude>9.7320</longitude>
     </item>
 
     <item>
@@ -462,11 +518,13 @@
       <price>16.50 EUR</price>
       <brand>Edeka Zentrale</brand>
       <product_type>Marketing &amp; Marktforschung</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Hamburg</custom_label_1>
-      <custom_label_2>Hamburg</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-10</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Hamburg</city>
+      <state>Hamburg</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-10</start_date>
+      <latitude>53.5511</latitude>
+      <longitude>9.9937</longitude>
     </item>
 
     <item>
@@ -478,11 +536,13 @@
       <price>14.96 EUR</price>
       <brand>Adidas AG</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Nürnberg</custom_label_1>
-      <custom_label_2>Bayern</custom_label_2>
-      <custom_label_3>10-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-03</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Nürnberg</city>
+      <state>Bayern</state>
+      <hours_per_week>10-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-03</start_date>
+      <latitude>49.4521</latitude>
+      <longitude>11.0767</longitude>
     </item>
 
     <item>
@@ -494,11 +554,13 @@
       <price>15.50 EUR</price>
       <brand>RWTH Aachen</brand>
       <product_type>IT &amp; Software</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Aachen</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>6-12 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Aachen</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>6-12 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>50.7753</latitude>
+      <longitude>6.0839</longitude>
     </item>
 
     <item>
@@ -510,11 +572,13 @@
       <price>16.00 EUR</price>
       <brand>Messe Frankfurt</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Frankfurt am Main</custom_label_1>
-      <custom_label_2>Hessen</custom_label_2>
-      <custom_label_3>8-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-18</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Frankfurt am Main</city>
+      <state>Hessen</state>
+      <hours_per_week>8-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-18</start_date>
+      <latitude>50.1109</latitude>
+      <longitude>8.6821</longitude>
     </item>
 
     <item>
@@ -526,11 +590,13 @@
       <price>16.50 EUR</price>
       <brand>Ford-Werke GmbH</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Köln</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-12</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Köln</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-12</start_date>
+      <latitude>50.9375</latitude>
+      <longitude>6.9603</longitude>
     </item>
 
     <item>
@@ -542,11 +608,13 @@
       <price>14.96 EUR</price>
       <brand>Edeka</brand>
       <product_type>Einzelhandel</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Freiburg</custom_label_1>
-      <custom_label_2>Baden-Württemberg</custom_label_2>
-      <custom_label_3>8-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-02</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Freiburg</city>
+      <state>Baden-Württemberg</state>
+      <hours_per_week>8-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-02</start_date>
+      <latitude>47.9990</latitude>
+      <longitude>7.8421</longitude>
     </item>
 
     <item>
@@ -558,11 +626,13 @@
       <price>17.00 EUR</price>
       <brand>SAP SE</brand>
       <product_type>Büro</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Berlin</custom_label_1>
-      <custom_label_2>Berlin</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-15</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Berlin</city>
+      <state>Berlin</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-15</start_date>
+      <latitude>52.5200</latitude>
+      <longitude>13.4050</longitude>
     </item>
 
     <item>
@@ -574,11 +644,13 @@
       <price>15.72 EUR</price>
       <brand>DPD Deutschland</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Graben</custom_label_1>
-      <custom_label_2>Bayern</custom_label_2>
-      <custom_label_3>15-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-06</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Graben</city>
+      <state>Bayern</state>
+      <hours_per_week>15-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-06</start_date>
+      <latitude>48.1833</latitude>
+      <longitude>10.8167</longitude>
     </item>
 
     <item>
@@ -590,11 +662,13 @@
       <price>15.00 EUR</price>
       <brand>AWO Heidelberg</brand>
       <product_type>Soziales</product_type>
-      <custom_label_0>Ferienjob</custom_label_0>
-      <custom_label_1>Heidelberg</custom_label_1>
-      <custom_label_2>Baden-Württemberg</custom_label_2>
-      <custom_label_3>30-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-04</custom_label_4>
+      <job_type>Ferienjob</job_type>
+      <city>Heidelberg</city>
+      <state>Baden-Württemberg</state>
+      <hours_per_week>30-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-04</start_date>
+      <latitude>49.3988</latitude>
+      <longitude>8.6724</longitude>
     </item>
 
     <item>
@@ -606,11 +680,13 @@
       <price>18.50 EUR</price>
       <brand>jobvalley</brand>
       <product_type>IT &amp; Software</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Köln</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>16-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Köln</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>16-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>50.9375</latitude>
+      <longitude>6.9603</longitude>
     </item>
 
     <item>
@@ -622,11 +698,13 @@
       <price>15.50 EUR</price>
       <brand>Aramark GmbH</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Dortmund</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>5-15 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-09</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Dortmund</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>5-15 Std/Woche</hours_per_week>
+      <start_date>2026-08-09</start_date>
+      <latitude>51.5136</latitude>
+      <longitude>7.4653</longitude>
     </item>
 
     <item>
@@ -638,11 +716,13 @@
       <price>16.50 EUR</price>
       <brand>CHECK24</brand>
       <product_type>Marketing &amp; Marktforschung</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>München</custom_label_1>
-      <custom_label_2>Bayern</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-11</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>München</city>
+      <state>Bayern</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-11</start_date>
+      <latitude>48.1351</latitude>
+      <longitude>11.5820</longitude>
     </item>
 
     <item>
@@ -654,11 +734,13 @@
       <price>15.00 EUR</price>
       <brand>Lieferando</brand>
       <product_type>Logistik &amp; Produktion</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Leipzig</custom_label_1>
-      <custom_label_2>Sachsen</custom_label_2>
-      <custom_label_3>10-30 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-03</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Leipzig</city>
+      <state>Sachsen</state>
+      <hours_per_week>10-30 Std/Woche</hours_per_week>
+      <start_date>2026-08-03</start_date>
+      <latitude>51.3397</latitude>
+      <longitude>12.3731</longitude>
     </item>
 
     <item>
@@ -670,11 +752,13 @@
       <price>16.00 EUR</price>
       <brand>Bayer AG</brand>
       <product_type>Büro</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Leverkusen</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-14</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Leverkusen</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-14</start_date>
+      <latitude>51.0459</latitude>
+      <longitude>6.9844</longitude>
     </item>
 
     <item>
@@ -686,11 +770,13 @@
       <price>15.00 EUR</price>
       <brand>thyssenkrupp AG</brand>
       <product_type>Büro</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Essen</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>10-25 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-05</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Essen</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>10-25 Std/Woche</hours_per_week>
+      <start_date>2026-08-05</start_date>
+      <latitude>51.4556</latitude>
+      <longitude>7.0116</longitude>
     </item>
 
     <item>
@@ -702,11 +788,13 @@
       <price>18.00 EUR</price>
       <brand>Deutsche Bank AG</brand>
       <product_type>IT &amp; Software</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Frankfurt am Main</custom_label_1>
-      <custom_label_2>Hessen</custom_label_2>
-      <custom_label_3>16-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-08</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Frankfurt am Main</city>
+      <state>Hessen</state>
+      <hours_per_week>16-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-08</start_date>
+      <latitude>50.1109</latitude>
+      <longitude>8.6821</longitude>
     </item>
 
     <item>
@@ -718,11 +806,13 @@
       <price>16.00 EUR</price>
       <brand>DO &amp; CO AG</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Düsseldorf</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>8-35 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-10</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Düsseldorf</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>8-35 Std/Woche</hours_per_week>
+      <start_date>2026-08-10</start_date>
+      <latitude>51.2277</latitude>
+      <longitude>6.7735</longitude>
     </item>
 
     <item>
@@ -734,11 +824,13 @@
       <price>16.50 EUR</price>
       <brand>Universitätsklinikum Bonn</brand>
       <product_type>Soziales</product_type>
-      <custom_label_0>Studentenjob</custom_label_0>
-      <custom_label_1>Bonn</custom_label_1>
-      <custom_label_2>Nordrhein-Westfalen</custom_label_2>
-      <custom_label_3>15-30 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-07</custom_label_4>
+      <job_type>Studentenjob</job_type>
+      <city>Bonn</city>
+      <state>Nordrhein-Westfalen</state>
+      <hours_per_week>15-30 Std/Woche</hours_per_week>
+      <start_date>2026-08-07</start_date>
+      <latitude>50.7374</latitude>
+      <longitude>7.0982</longitude>
     </item>
 
     <item>
@@ -750,11 +842,13 @@
       <price>16.00 EUR</price>
       <brand>Delivery Hero</brand>
       <product_type>Marketing &amp; Marktforschung</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Berlin</custom_label_1>
-      <custom_label_2>Berlin</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-01</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Berlin</city>
+      <state>Berlin</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-01</start_date>
+      <latitude>52.5200</latitude>
+      <longitude>13.4050</longitude>
     </item>
 
     <item>
@@ -766,11 +860,13 @@
       <price>14.96 EUR</price>
       <brand>Trinkgut</brand>
       <product_type>Einzelhandel</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Mannheim</custom_label_1>
-      <custom_label_2>Baden-Württemberg</custom_label_2>
-      <custom_label_3>8-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-04</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Mannheim</city>
+      <state>Baden-Württemberg</state>
+      <hours_per_week>8-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-04</start_date>
+      <latitude>49.4875</latitude>
+      <longitude>8.4660</longitude>
     </item>
 
     <item>
@@ -782,11 +878,13 @@
       <price>16.00 EUR</price>
       <brand>1&amp;1 Ionos</brand>
       <product_type>IT &amp; Software</product_type>
-      <custom_label_0>Werkstudent</custom_label_0>
-      <custom_label_1>Karlsruhe</custom_label_1>
-      <custom_label_2>Baden-Württemberg</custom_label_2>
-      <custom_label_3>15-20 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-13</custom_label_4>
+      <job_type>Werkstudent</job_type>
+      <city>Karlsruhe</city>
+      <state>Baden-Württemberg</state>
+      <hours_per_week>15-20 Std/Woche</hours_per_week>
+      <start_date>2026-08-13</start_date>
+      <latitude>49.0069</latitude>
+      <longitude>8.4037</longitude>
     </item>
 
     <item>
@@ -798,11 +896,13 @@
       <price>15.50 EUR</price>
       <brand>Barclays Arena Hamburg</brand>
       <product_type>Gastronomie &amp; Events</product_type>
-      <custom_label_0>Nebenjob</custom_label_0>
-      <custom_label_1>Hamburg</custom_label_1>
-      <custom_label_2>Hamburg</custom_label_2>
-      <custom_label_3>8-40 Std/Woche</custom_label_3>
-      <custom_label_4>2026-08-16</custom_label_4>
+      <job_type>Nebenjob</job_type>
+      <city>Hamburg</city>
+      <state>Hamburg</state>
+      <hours_per_week>8-40 Std/Woche</hours_per_week>
+      <start_date>2026-08-16</start_date>
+      <latitude>53.5511</latitude>
+      <longitude>9.9937</longitude>
     </item>
 
   </channel>
