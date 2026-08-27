@@ -20,8 +20,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>10-40</g:hours_per_week>
       <g:start_date>2026-08-04</g:start_date>
-      <g:latitude>50.9375</g:latitude>
-      <g:longitude>6.9603</g:longitude>
+      <g:job_lat>50.9375</g:job_lat>
+      <g:job_lng>6.9603</g:job_lng>
     </item>
 
     <item>
@@ -39,8 +39,8 @@
       <g:state>Hamburg</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>53.5511</g:latitude>
-      <g:longitude>9.9937</g:longitude>
+      <g:job_lat>53.5511</g:job_lat>
+      <g:job_lng>9.9937</g:job_lng>
     </item>
 
     <item>
@@ -58,8 +58,8 @@
       <g:state>Bayern</g:state>
       <g:hours_per_week>8-30</g:hours_per_week>
       <g:start_date>2026-08-10</g:start_date>
-      <g:latitude>48.1351</g:latitude>
-      <g:longitude>11.5820</g:longitude>
+      <g:job_lat>48.1351</g:job_lat>
+      <g:job_lng>11.5820</g:job_lng>
     </item>
 
     <item>
@@ -77,8 +77,8 @@
       <g:state>Berlin</g:state>
       <g:hours_per_week>6-20</g:hours_per_week>
       <g:start_date>2026-08-03</g:start_date>
-      <g:latitude>52.5200</g:latitude>
-      <g:longitude>13.4050</g:longitude>
+      <g:job_lat>52.5200</g:job_lat>
+      <g:job_lng>13.4050</g:job_lng>
     </item>
 
     <item>
@@ -96,8 +96,8 @@
       <g:state>Hessen</g:state>
       <g:hours_per_week>16-20</g:hours_per_week>
       <g:start_date>2026-08-15</g:start_date>
-      <g:latitude>50.1109</g:latitude>
-      <g:longitude>8.6821</g:longitude>
+      <g:job_lat>50.1109</g:job_lat>
+      <g:job_lng>8.6821</g:job_lng>
     </item>
 
     <item>
@@ -115,8 +115,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>10-30</g:hours_per_week>
       <g:start_date>2026-08-05</g:start_date>
-      <g:latitude>51.2277</g:latitude>
-      <g:longitude>6.7735</g:longitude>
+      <g:job_lat>51.2277</g:job_lat>
+      <g:job_lng>6.7735</g:job_lng>
     </item>
 
     <item>
@@ -134,8 +134,8 @@
       <g:state>Baden-Württemberg</g:state>
       <g:hours_per_week>35-40</g:hours_per_week>
       <g:start_date>2026-08-07</g:start_date>
-      <g:latitude>48.7758</g:latitude>
-      <g:longitude>9.1829</g:longitude>
+      <g:job_lat>48.7758</g:job_lat>
+      <g:job_lng>9.1829</g:job_lng>
     </item>
 
     <item>
@@ -153,8 +153,8 @@
       <g:state>Niedersachsen</g:state>
       <g:hours_per_week>10-20</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>52.3759</g:latitude>
-      <g:longitude>9.7320</g:longitude>
+      <g:job_lat>52.3759</g:job_lat>
+      <g:job_lng>9.7320</g:job_lng>
     </item>
 
     <item>
@@ -172,8 +172,8 @@
       <g:state>Sachsen</g:state>
       <g:hours_per_week>4-15</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>51.3397</g:latitude>
-      <g:longitude>12.3731</g:longitude>
+      <g:job_lat>51.3397</g:job_lat>
+      <g:job_lng>12.3731</g:job_lng>
     </item>
 
     <item>
@@ -191,8 +191,8 @@
       <g:state>Bremen</g:state>
       <g:hours_per_week>15-40</g:hours_per_week>
       <g:start_date>2026-08-06</g:start_date>
-      <g:latitude>53.0793</g:latitude>
-      <g:longitude>8.8017</g:longitude>
+      <g:job_lat>53.0793</g:job_lat>
+      <g:job_lng>8.8017</g:job_lng>
     </item>
 
     <item>
@@ -210,8 +210,8 @@
       <g:state>Berlin</g:state>
       <g:hours_per_week>16-20</g:hours_per_week>
       <g:start_date>2026-08-12</g:start_date>
-      <g:latitude>52.5200</g:latitude>
-      <g:longitude>13.4050</g:longitude>
+      <g:job_lat>52.5200</g:job_lat>
+      <g:job_lng>13.4050</g:job_lng>
     </item>
 
     <item>
@@ -229,8 +229,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>8-20</g:hours_per_week>
       <g:start_date>2026-08-09</g:start_date>
-      <g:latitude>51.5136</g:latitude>
-      <g:longitude>7.4653</g:longitude>
+      <g:job_lat>51.5136</g:job_lat>
+      <g:job_lng>7.4653</g:job_lng>
     </item>
 
     <item>
@@ -248,8 +248,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>10-25</g:hours_per_week>
       <g:start_date>2026-08-02</g:start_date>
-      <g:latitude>50.9375</g:latitude>
-      <g:longitude>6.9603</g:longitude>
+      <g:job_lat>50.9375</g:job_lat>
+      <g:job_lng>6.9603</g:job_lng>
     </item>
 
     <item>
@@ -267,8 +267,8 @@
       <g:state>Bayern</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>48.1351</g:latitude>
-      <g:longitude>11.5820</g:longitude>
+      <g:job_lat>48.1351</g:job_lat>
+      <g:job_lng>11.5820</g:job_lng>
     </item>
 
     <item>
@@ -286,8 +286,8 @@
       <g:state>Hessen</g:state>
       <g:hours_per_week>10-30</g:hours_per_week>
       <g:start_date>2026-08-08</g:start_date>
-      <g:latitude>50.1109</g:latitude>
-      <g:longitude>8.6821</g:longitude>
+      <g:job_lat>50.1109</g:job_lat>
+      <g:job_lng>8.6821</g:job_lng>
     </item>
 
     <item>
@@ -305,8 +305,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>30-40</g:hours_per_week>
       <g:start_date>2026-08-11</g:start_date>
-      <g:latitude>52.0302</g:latitude>
-      <g:longitude>8.5325</g:longitude>
+      <g:job_lat>52.0302</g:job_lat>
+      <g:job_lng>8.5325</g:job_lng>
     </item>
 
     <item>
@@ -324,8 +324,8 @@
       <g:state>Hamburg</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-04</g:start_date>
-      <g:latitude>53.5511</g:latitude>
-      <g:longitude>9.9937</g:longitude>
+      <g:job_lat>53.5511</g:job_lat>
+      <g:job_lng>9.9937</g:job_lng>
     </item>
 
     <item>
@@ -343,8 +343,8 @@
       <g:state>Sachsen</g:state>
       <g:hours_per_week>8-20</g:hours_per_week>
       <g:start_date>2026-08-03</g:start_date>
-      <g:latitude>51.0504</g:latitude>
-      <g:longitude>13.7373</g:longitude>
+      <g:job_lat>51.0504</g:job_lat>
+      <g:job_lng>13.7373</g:job_lng>
     </item>
 
     <item>
@@ -362,8 +362,8 @@
       <g:state>Baden-Württemberg</g:state>
       <g:hours_per_week>16-20</g:hours_per_week>
       <g:start_date>2026-08-15</g:start_date>
-      <g:latitude>48.7758</g:latitude>
-      <g:longitude>9.1829</g:longitude>
+      <g:job_lat>48.7758</g:job_lat>
+      <g:job_lng>9.1829</g:job_lng>
     </item>
 
     <item>
@@ -381,8 +381,8 @@
       <g:state>Schleswig-Holstein</g:state>
       <g:hours_per_week>10-30</g:hours_per_week>
       <g:start_date>2026-08-02</g:start_date>
-      <g:latitude>54.3233</g:latitude>
-      <g:longitude>10.1228</g:longitude>
+      <g:job_lat>54.3233</g:job_lat>
+      <g:job_lng>10.1228</g:job_lng>
     </item>
 
     <item>
@@ -400,8 +400,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>12-20</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>50.9375</g:latitude>
-      <g:longitude>6.9603</g:longitude>
+      <g:job_lat>50.9375</g:job_lat>
+      <g:job_lng>6.9603</g:job_lng>
     </item>
 
     <item>
@@ -419,8 +419,8 @@
       <g:state>Hessen</g:state>
       <g:hours_per_week>20-40</g:hours_per_week>
       <g:start_date>2026-08-05</g:start_date>
-      <g:latitude>49.9208</g:latitude>
-      <g:longitude>8.4833</g:longitude>
+      <g:job_lat>49.9208</g:job_lat>
+      <g:job_lng>8.4833</g:job_lng>
     </item>
 
     <item>
@@ -438,8 +438,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>10-25</g:hours_per_week>
       <g:start_date>2026-08-06</g:start_date>
-      <g:latitude>50.7374</g:latitude>
-      <g:longitude>7.0982</g:longitude>
+      <g:job_lat>50.7374</g:job_lat>
+      <g:job_lng>7.0982</g:job_lng>
     </item>
 
     <item>
@@ -457,8 +457,8 @@
       <g:state>Niedersachsen</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-13</g:start_date>
-      <g:latitude>52.4227</g:latitude>
-      <g:longitude>10.7865</g:longitude>
+      <g:job_lat>52.4227</g:job_lat>
+      <g:job_lng>10.7865</g:job_lng>
     </item>
 
     <item>
@@ -476,8 +476,8 @@
       <g:state>Bayern</g:state>
       <g:hours_per_week>15-35</g:hours_per_week>
       <g:start_date>2026-08-04</g:start_date>
-      <g:latitude>48.1351</g:latitude>
-      <g:longitude>11.5820</g:longitude>
+      <g:job_lat>48.1351</g:job_lat>
+      <g:job_lng>11.5820</g:job_lng>
     </item>
 
     <item>
@@ -495,8 +495,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>51.2277</g:latitude>
-      <g:longitude>6.7735</g:longitude>
+      <g:job_lat>51.2277</g:job_lat>
+      <g:job_lng>6.7735</g:job_lng>
     </item>
 
     <item>
@@ -514,8 +514,8 @@
       <g:state>Berlin</g:state>
       <g:hours_per_week>8-40</g:hours_per_week>
       <g:start_date>2026-08-09</g:start_date>
-      <g:latitude>52.5200</g:latitude>
-      <g:longitude>13.4050</g:longitude>
+      <g:job_lat>52.5200</g:job_lat>
+      <g:job_lng>13.4050</g:job_lng>
     </item>
 
     <item>
@@ -533,8 +533,8 @@
       <g:state>Niedersachsen</g:state>
       <g:hours_per_week>15-40</g:hours_per_week>
       <g:start_date>2026-08-07</g:start_date>
-      <g:latitude>52.3759</g:latitude>
-      <g:longitude>9.7320</g:longitude>
+      <g:job_lat>52.3759</g:job_lat>
+      <g:job_lng>9.7320</g:job_lng>
     </item>
 
     <item>
@@ -552,8 +552,8 @@
       <g:state>Hamburg</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-10</g:start_date>
-      <g:latitude>53.5511</g:latitude>
-      <g:longitude>9.9937</g:longitude>
+      <g:job_lat>53.5511</g:job_lat>
+      <g:job_lng>9.9937</g:job_lng>
     </item>
 
     <item>
@@ -571,8 +571,8 @@
       <g:state>Bayern</g:state>
       <g:hours_per_week>10-40</g:hours_per_week>
       <g:start_date>2026-08-03</g:start_date>
-      <g:latitude>49.4521</g:latitude>
-      <g:longitude>11.0767</g:longitude>
+      <g:job_lat>49.4521</g:job_lat>
+      <g:job_lng>11.0767</g:job_lng>
     </item>
 
     <item>
@@ -590,8 +590,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>6-12</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>50.7753</g:latitude>
-      <g:longitude>6.0839</g:longitude>
+      <g:job_lat>50.7753</g:job_lat>
+      <g:job_lng>6.0839</g:job_lng>
     </item>
 
     <item>
@@ -609,8 +609,8 @@
       <g:state>Hessen</g:state>
       <g:hours_per_week>8-40</g:hours_per_week>
       <g:start_date>2026-08-18</g:start_date>
-      <g:latitude>50.1109</g:latitude>
-      <g:longitude>8.6821</g:longitude>
+      <g:job_lat>50.1109</g:job_lat>
+      <g:job_lng>8.6821</g:job_lng>
     </item>
 
     <item>
@@ -628,8 +628,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-12</g:start_date>
-      <g:latitude>50.9375</g:latitude>
-      <g:longitude>6.9603</g:longitude>
+      <g:job_lat>50.9375</g:job_lat>
+      <g:job_lng>6.9603</g:job_lng>
     </item>
 
     <item>
@@ -647,8 +647,8 @@
       <g:state>Baden-Württemberg</g:state>
       <g:hours_per_week>8-20</g:hours_per_week>
       <g:start_date>2026-08-02</g:start_date>
-      <g:latitude>47.9990</g:latitude>
-      <g:longitude>7.8421</g:longitude>
+      <g:job_lat>47.9990</g:job_lat>
+      <g:job_lng>7.8421</g:job_lng>
     </item>
 
     <item>
@@ -666,8 +666,8 @@
       <g:state>Berlin</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-15</g:start_date>
-      <g:latitude>52.5200</g:latitude>
-      <g:longitude>13.4050</g:longitude>
+      <g:job_lat>52.5200</g:job_lat>
+      <g:job_lng>13.4050</g:job_lng>
     </item>
 
     <item>
@@ -685,8 +685,8 @@
       <g:state>Bayern</g:state>
       <g:hours_per_week>15-40</g:hours_per_week>
       <g:start_date>2026-08-06</g:start_date>
-      <g:latitude>48.1833</g:latitude>
-      <g:longitude>10.8167</g:longitude>
+      <g:job_lat>48.1833</g:job_lat>
+      <g:job_lng>10.8167</g:job_lng>
     </item>
 
     <item>
@@ -704,8 +704,8 @@
       <g:state>Baden-Württemberg</g:state>
       <g:hours_per_week>30-40</g:hours_per_week>
       <g:start_date>2026-08-04</g:start_date>
-      <g:latitude>49.3988</g:latitude>
-      <g:longitude>8.6724</g:longitude>
+      <g:job_lat>49.3988</g:job_lat>
+      <g:job_lng>8.6724</g:job_lng>
     </item>
 
     <item>
@@ -723,8 +723,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>16-20</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>50.9375</g:latitude>
-      <g:longitude>6.9603</g:longitude>
+      <g:job_lat>50.9375</g:job_lat>
+      <g:job_lng>6.9603</g:job_lng>
     </item>
 
     <item>
@@ -742,8 +742,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>5-15</g:hours_per_week>
       <g:start_date>2026-08-09</g:start_date>
-      <g:latitude>51.5136</g:latitude>
-      <g:longitude>7.4653</g:longitude>
+      <g:job_lat>51.5136</g:job_lat>
+      <g:job_lng>7.4653</g:job_lng>
     </item>
 
     <item>
@@ -761,8 +761,8 @@
       <g:state>Bayern</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-11</g:start_date>
-      <g:latitude>48.1351</g:latitude>
-      <g:longitude>11.5820</g:longitude>
+      <g:job_lat>48.1351</g:job_lat>
+      <g:job_lng>11.5820</g:job_lng>
     </item>
 
     <item>
@@ -780,8 +780,8 @@
       <g:state>Sachsen</g:state>
       <g:hours_per_week>10-30</g:hours_per_week>
       <g:start_date>2026-08-03</g:start_date>
-      <g:latitude>51.3397</g:latitude>
-      <g:longitude>12.3731</g:longitude>
+      <g:job_lat>51.3397</g:job_lat>
+      <g:job_lng>12.3731</g:job_lng>
     </item>
 
     <item>
@@ -799,8 +799,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-14</g:start_date>
-      <g:latitude>51.0459</g:latitude>
-      <g:longitude>6.9844</g:longitude>
+      <g:job_lat>51.0459</g:job_lat>
+      <g:job_lng>6.9844</g:job_lng>
     </item>
 
     <item>
@@ -818,8 +818,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>10-25</g:hours_per_week>
       <g:start_date>2026-08-05</g:start_date>
-      <g:latitude>51.4556</g:latitude>
-      <g:longitude>7.0116</g:longitude>
+      <g:job_lat>51.4556</g:job_lat>
+      <g:job_lng>7.0116</g:job_lng>
     </item>
 
     <item>
@@ -837,8 +837,8 @@
       <g:state>Hessen</g:state>
       <g:hours_per_week>16-20</g:hours_per_week>
       <g:start_date>2026-08-08</g:start_date>
-      <g:latitude>50.1109</g:latitude>
-      <g:longitude>8.6821</g:longitude>
+      <g:job_lat>50.1109</g:job_lat>
+      <g:job_lng>8.6821</g:job_lng>
     </item>
 
     <item>
@@ -856,8 +856,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>8-35</g:hours_per_week>
       <g:start_date>2026-08-10</g:start_date>
-      <g:latitude>51.2277</g:latitude>
-      <g:longitude>6.7735</g:longitude>
+      <g:job_lat>51.2277</g:job_lat>
+      <g:job_lng>6.7735</g:job_lng>
     </item>
 
     <item>
@@ -875,8 +875,8 @@
       <g:state>Nordrhein-Westfalen</g:state>
       <g:hours_per_week>15-30</g:hours_per_week>
       <g:start_date>2026-08-07</g:start_date>
-      <g:latitude>50.7374</g:latitude>
-      <g:longitude>7.0982</g:longitude>
+      <g:job_lat>50.7374</g:job_lat>
+      <g:job_lng>7.0982</g:job_lng>
     </item>
 
     <item>
@@ -894,8 +894,8 @@
       <g:state>Berlin</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-01</g:start_date>
-      <g:latitude>52.5200</g:latitude>
-      <g:longitude>13.4050</g:longitude>
+      <g:job_lat>52.5200</g:job_lat>
+      <g:job_lng>13.4050</g:job_lng>
     </item>
 
     <item>
@@ -913,8 +913,8 @@
       <g:state>Baden-Württemberg</g:state>
       <g:hours_per_week>8-20</g:hours_per_week>
       <g:start_date>2026-08-04</g:start_date>
-      <g:latitude>49.4875</g:latitude>
-      <g:longitude>8.4660</g:longitude>
+      <g:job_lat>49.4875</g:job_lat>
+      <g:job_lng>8.4660</g:job_lng>
     </item>
 
     <item>
@@ -932,8 +932,8 @@
       <g:state>Baden-Württemberg</g:state>
       <g:hours_per_week>15-20</g:hours_per_week>
       <g:start_date>2026-08-13</g:start_date>
-      <g:latitude>49.0069</g:latitude>
-      <g:longitude>8.4037</g:longitude>
+      <g:job_lat>49.0069</g:job_lat>
+      <g:job_lng>8.4037</g:job_lng>
     </item>
 
     <item>
@@ -951,8 +951,8 @@
       <g:state>Hamburg</g:state>
       <g:hours_per_week>8-40</g:hours_per_week>
       <g:start_date>2026-08-16</g:start_date>
-      <g:latitude>53.5511</g:latitude>
-      <g:longitude>9.9937</g:longitude>
+      <g:job_lat>53.5511</g:job_lat>
+      <g:job_lng>9.9937</g:job_lng>
     </item>
 
   </channel>
